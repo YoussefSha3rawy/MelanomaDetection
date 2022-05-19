@@ -1,0 +1,8 @@
+pandas==1.2.3
+keras_nightly==2.5.0.dev2021032900
+matplotlib==3.4.0
+tensorflow==2.5.0
+numpy==1.19.5
+imutils==0.5.4
+keras==2.4.3
+Pillow==8.2.0

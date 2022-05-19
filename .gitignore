@@ -1,0 +1,13 @@
+*.png
+*.pptx
+*.psd
+*.pdf
+*.xlsx
+*.docx
+*.jpg
+*.jpeg
+*.mp4
+Notebooks/.ipynb_checkpoints
+Dataset
+!*Skin.pdf
+
